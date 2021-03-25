@@ -1,0 +1,476 @@
+header,
+section,
+footer{
+    overflow-x: hidden;
+
+}
+
+li{
+list-style-type:none
+}
+
+.header{
+position: relative;
+}
+
+.navh,
+.nav-list,
+.nav-st{
+    display: flex;
+}
+
+.nav-st{
+padding-left: 250px;
+
+}
+
+.navh{
+    
+    align-items: center;
+    padding-top: 25px;
+}
+
+.left{
+    margin-left: 50px;
+}
+
+
+.heder a {
+    color: #FFFFFF;
+}
+
+.maiin{
+    background: #2196F3;
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    margin-left: 832px;
+    margin-right: 732px;
+    border: none;
+}
+
+.but2{
+    background: #F5F4FA;
+}
+
+
+.color{
+    color: #FFFFFF;
+}
+.Web{
+    font-family: Raleway;
+    color: #2196F3;
+    font-weight: 700;
+    margin-left: 215px;
+    margin-right: 93px;
+    text-decoration: none;
+}
+
+.Studoi{
+    font-family: Raleway;
+    color: black;
+    font-weight: 700;
+}
+.Studoii{
+    color: white;
+    font-weight: 700;
+}
+
+.Studia{
+    color:  #2196F3;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 93px;
+    margin-right: 50px;
+   
+}
+.footer{
+    background-color: #2F303A;
+}
+.komanda{
+    background-color: #F5F4FA;
+    padding-bottom: 50px;
+    padding-left: 40px;
+}
+
+.blokkom
+{
+    display: flex;
+    padding-left: 215px;
+    margin-left: 30px;
+}
+
+
+.blok{
+    
+    display: flex;
+    padding-left: 215px;
+    margin-left: 30px;
+}
+
+.Robo{
+   font-family: Roboto;
+   font-weight: 700;
+   color: #212121;
+   width: 270px;
+   padding-bottom: 10px;
+  }
+.Soobr{
+    font-family: Roboto;
+    font-weight: 400;
+    color: #757575;
+    Size :14px;
+    position: relative;
+    width: 270px;
+}
+
+.glown{
+       font-family: Roboto;
+       font-weight: 900;
+       color: white;
+       align-items: center;
+       padding-bottom: 30px;
+       margin-left: 472px;
+       margin-right: 452px;
+       font-size: 44px;
+       padding-top: 100px;
+       font-family: Roboto;  
+       text-transform: uppercase;
+       text-align: center;
+
+   }
+
+body{
+       font-family: 'roboto'
+   }
+
+.Studiaa{
+   font-weight: 500;
+   color: black;
+ }
+ .black{
+     font-weight: 500;
+     color: black;
+     margin-right: 50px;
+     text-decoration: none;
+ }
+
+  .black1{
+    font-weight: 500;
+    color: black;
+    margin-right: 0px;
+    text-decoration: none;
+  }
+
+ .tel{
+     color:#757575;
+     font-weight: 500;
+     text-decoration: none;
+     margin-right: 215px;
+ }
+
+ .adres{
+     font-weight: 400;
+     color: #FFFFFF;
+ }
+
+ .MT{
+      color: rgba(255, 255, 255, 0.6);
+      text-decoration: none;
+ }
+
+ .MT1{
+     color: #757575;
+     font-weight: 500;
+ }
+
+ .navgla{
+    Height:80px;
+    margin-bottom: 25px;
+    display: flexbox;
+    padding-left: 0px;
+    
+ }
+
+ .navglaa{
+    Height:80px;
+    margin-bottom: 25px;
+    display: flexbox;
+    padding-left: 0px;
+    border-bottom: 1px solid #ECECEC;
+ }
+ .Cglown{
+    Height:600px;
+    padding: 0% 15px;
+    padding-top: 80px;
+    background-color: #2F303A;
+    text-transform: uppercase;
+    Size:44px;
+    text-align: center;
+    border: none;
+ }
+
+ .Robota{
+    Height:400px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-left: 215px;
+  
+    
+ }
+
+ .fotorab{
+    Height:400px;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 250px;
+ }
+
+ .CWQfoter{
+  Height: 648px;
+  Top: 1449px;
+  
+}
+
+.foto{
+    padding-left: 30px;
+}
+
+ .CON4{
+  margin-left: 750px;
+  size: 36px;
+  font-weight: 700;
+  padding-bottom: 94px;
+  padding-bottom: 50px;
+}
+
+.kom{
+    padding-left: 768px;
+    font-weight: 700;
+    size: 36px;
+    padding-top: 94px;
+   
+}
+ 
+.Container6{
+    Width:1600px;
+    Height: 252px;
+    margin-top: -15px;
+    background: #2F303A;
+}
+
+.Weby{
+    padding-left: 175px;
+    font-weight: 400;
+    padding-bottom: 9px;
+}
+.Webst{
+margin-top: 150px;
+color: #2196F3;
+text-decoration: none;
+    
+}
+.card{
+padding-left: 30px;
+}
+
+img
+{
+display: block;
+}
+
+.imie{
+background-color:white;
+padding: 30px;
+
+}
+
+.WQ{
+    padding-left: 215px;
+   padding-bottom: 10px;
+   padding-top: 60px;
+}
+
+.Container10{
+    Width:1600px;
+    Height:80px;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    justify-content: space-between;
+    
+}
+
+.nav-portfolio{
+   
+    padding-top: 25px;
+}
+
+.nav-flex{
+    display: flex;
+   
+}
+.nav-adres{
+    display: flex;   
+}
+.WEBSRT{
+    font-size: 700;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    color: #2196F3; 
+}
+
+.knopka{
+    background-color: #F5F4FA;
+    color: black;
+    height: 38px;
+    width: 128px;
+    left: 576px;
+    top: 174px;
+    margin-right: 8px;
+    border: none;
+    border-radius: 4px;
+}
+
+.glknopka{
+    background: #2196F3;
+    color: #FFFFFF;
+    margin-left: 517px;
+    height: 38px;
+    width: 73px;
+    left: 495px;
+    top: 174px;
+    margin-left: 350px;
+    margin-right: 8px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border: none;
+}
+
+.blok-portfolio{
+   display: flex;
+   background-color: #FFFFFF;
+   padding-bottom: 50px;
+   padding-left: 40px;
+   display: flex;
+  flex-wrap: wrap;
+  margin-left: 215px;
+  margin-right: 215px;
+}
+
+.card-pf{
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+}
+
+.blok-clor-imie{
+    background-color:white;
+    padding: 30px;
+
+}
+
+.glzag{
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    
+}
+
+.glzagbukw{
+height: 30px;
+width: 322px;
+left: 239px;
+top: 1050px;
+color: #757575;
+}
+
+.prof-nazw{
+   background-color:white;
+}
+
+.WSY{
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+text-align: left;
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+margin-left: 215px;
+text-decoration: none;
+
+}
+
+.WSYy{
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+text-align: left;
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+margin-left: 215px;
+text-decoration: none;
+margin-right: 93px;
+}
+
+.df{
+    display: flex;
+   flex-wrap: wrap;
+   margin-top: -50px;
+   background-color: #FFFFFF;
+
+}
+
+.rozm{
+position: absolute;
+}
+
+.knopki{
+margin-left: 255px;
+margin-top: -50px;
+}
+
+
+/*sign Backdrop*/
+.data-backdrob-sign{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #a12121;
+}
+
+.modals-sign{
+    margin: 0 auto;
+    width: 200px;
+    height: 300px;
+    background-color: #a12121;
+}
+
+.button{
+    border: none;
+}
+
+
+.button-icon{
+    width: 100px;
+    height: 100px;
+}
+
+
+
