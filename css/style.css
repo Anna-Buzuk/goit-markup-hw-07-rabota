@@ -464,6 +464,112 @@ display: flex;
 
 
 
+     /*container 5*/
+
+
+.section__komanda{
+    background-color: #f5f4fa;
+     padding-bottom: 94px;
+}
+.section__komanda--name {
+      font-weight: 700;
+      font-size: 36px;
+      padding-top: 94px;
+      text-align: center;
+      font-family: Roboto;
+}
+.gallery__card{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.gallery__card--name {
+        background-color: white;
+        padding: 30px;
+}
+.gallery__card--walk{
+   text-align: center;
+}
+.gallery__card--profession {
+    background-color: white;
+    text-align: center;
+}
+      
+
+/*socseci*/ /*footer*/
+
+
+.social__networks{
+  display: flex;
+  justify-content: space-between;
+ }
+.social__networks--main{
+  border: none;
+  width: 43px;
+  height: 43px;
+  border-radius: 43px;
+  background-color: white;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+ }
+.social__networks--main:hover{
+  background-color: #2196F3;
+}
+.social__networks--posicion{
+  width: 32px;
+  height: 32px;
+  position: relative;
+  top: 5px;
+  left: 4px;
+  right: 0px;
+  bottom: 0px;
+}
+.social__networks--link{
+  background: #AFB1B8;
+  position: relative;
+   top: 5px;
+   left: 5px;
+   right: 0px;
+   bottom: 0px;
+ }
+ 
+ .social__footer {
+  
+  background: #2f303a;
+}
+
+.social__footer--adress {
+  font-weight: 400;
+  margin-bottom: 9px;
+}
+
+
+
+.social__footer--style {
+  font-weight: 400;
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 9px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+.social__footer--nih {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -545,22 +651,8 @@ display: flex;
   .footer {
     background-color: #2f303a;
   }
-  .komanda {
-    background-color: #f5f4fa;
-    padding-bottom: 94px;
-  }
-  
-  .blok
-{
-    display: flex;
-    justify-content: space-between;
-  }
-  .blok{
-      
-      margin-top: 50px;
-  }
-
-
+ 
+ 
   
   
   body {
@@ -597,20 +689,7 @@ display: flex;
   
 
   
-  .adres {
-    font-weight: 400;
-    color: #ffffff;
-    margin-top: 20px;
-    margin-bottom: 9px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-  }
   
-  .MT {
-    color: rgba(255, 255, 255, 0.6);
-    text-decoration: none;
-  }
   
   .MT1 {
     color: #757575;
@@ -654,24 +733,12 @@ display: flex;
   
   
   
-  .kom {
-    font-weight: 700;
-    font-size: 36px;
-    padding-top: 94px;
-    text-align: center;
-    font-family: Roboto;
-
-  }
-  
   .Container6 {
   
     background: #2f303a;
   }
   
-  .Weby {
-    font-weight: 400;
-    margin-bottom: 9px;
-  }
+  
   .Webst {
     margin-top: 150px;
     color: #2196f3;
@@ -682,11 +749,7 @@ display: flex;
     display: block;
   }
   
-  .imie {
-    background-color: white;
-    padding: 30px;
-  }
-  
+
   .WQ {
     padding-left: 215px;
     padding-bottom: 10px;
@@ -732,14 +795,7 @@ display: flex;
   
   
   
-  .prof{
-    text-align: center;
-  }
-  .prof-nazw {
-    background-color: white;
-    text-align: center;
-  }
-  
+
   .WSY {
     font-family: Raleway;
     text-align: left;
@@ -789,48 +845,13 @@ display: flex;
   
  
 
- /*socseci*/
-
- .rozpbos{
-  display: flex;
-  justify-content: space-between;
- }
+ 
 
 
- .bigbos{
-  border: none;
-  width: 43px;
-  height: 43px;
-  border-radius: 43px;
-  background-color: white;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
- }
-.bigbos:hover{
-  background-color: #2196F3;
-}
-
- .bos{
-  width: 32px;
-  height: 32px;
-  position: relative;
-  top: 5px;
-  left: 4px;
-  right: 0px;
-  bottom: 0px;
-}
   
 }
 
- .fr{
- background: #AFB1B8;
- position: relative;
-  top: 5px;
-  left: 5px;
-  right: 0px;
-  bottom: 0px;
-}
-
-  
+ 
 
   
 
