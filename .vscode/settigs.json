@@ -5,16 +5,11 @@
         "savePath": "/css"
     },
     
-    {
-        "format": "compressed",
-        "extensionName": ".min.css",
-        "savePath": "/dist/css"
-    },
     
     {
         "format": "compressed",
         "extensionName": ".min.css",
-        "savePath": "~/../css/"
+        "savePath": "/css"
     }
 ],
 
