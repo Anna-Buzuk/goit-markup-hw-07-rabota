@@ -963,6 +963,20 @@ bottom: 0px;
   width: 12px;
   height: 12px;  
 }
+
+.iconstele{
+  position: absolute;
+  top:25%;
+  left: 82%;
+  width: 24px;
+  height: 24px;  
+}
+
+
+
+
+
+
 .ico{
   position: absolute;
   top: 30px;
