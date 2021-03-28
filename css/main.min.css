@@ -1,3 +1,7 @@
+
+
+
+
 header,
 section,
 footer {
@@ -74,11 +78,11 @@ img {
           box-sizing: border-box;
 }
 
-footer {
+.footer {
   padding: 60px 0;
 }
 
-footer ul {
+.footer ul {
   margin: 0;
 }
 
